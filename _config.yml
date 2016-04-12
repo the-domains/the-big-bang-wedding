@@ -1,7 +1,7 @@
 name: The Big Bang Wedding
 favicon: null
-layout_spectrum: 0.04601820046082139
-typography_spectrum: 0.5975611608009785
+layout_spectrum: 1
+typography_spectrum: 0.07362
 title: The Big Bang Wedding
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.8290303174871951
+  brandStrength: 0.875
   lightness: 0.4899900662712753
   saturation: 0.47689674189314246
-  rhythmicContrast: 0.33412086381576955
+  rhythmicContrast: 0.25
 purpose: []
